@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PSProjectServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PSProjectServer_jar</output-path>
+    <root id="archive" name="PSProject.jar">
+      <element id="module-output" name="PSProject" />
+    </root>
+  </artifact>
+</component>
